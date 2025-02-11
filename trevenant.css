@@ -5,8 +5,8 @@
 }
 /* vh = segue a altura da página da pessoa */
 :root{
-    --primary-color: #f5cf06;
-    --secudary-color: #8e4106;
+    --primary-color: #393939;
+    --secudary-color: #5afbc0;
 }
 
 body{
@@ -58,9 +58,9 @@ main{
 }
 .title span{
     position: absolute;
-    font-size: 25vw;
-    left: 0;
-    top: -50%;
+    font-size: 20vw;
+    left: 1%;
+    top: -25%;
     opacity: 0.3;
 }
 .container{
@@ -105,7 +105,7 @@ footer{
 .pikachu-image{
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 45%;
     transform: translate(-50%, -50%);
     height: 75vh;
 }

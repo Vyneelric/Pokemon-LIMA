@@ -5,8 +5,8 @@
 }
 /* vh = segue a altura da página da pessoa */
 :root{
-    --primary-color: #f5cf06;
-    --secudary-color: #8e4106;
+    --primary-color: #d988d4;
+    --secudary-color: #aa3dc3;
 }
 
 body{
@@ -59,7 +59,7 @@ main{
 .title span{
     position: absolute;
     font-size: 25vw;
-    left: 0;
+    left: 10%;
     top: -50%;
     opacity: 0.3;
 }
